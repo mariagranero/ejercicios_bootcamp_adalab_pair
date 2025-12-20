@@ -1,9 +1,9 @@
-## 📊 Bootcamp de Análisis de Datos – Ejercicios
+# 📊 Bootcamp de Análisis de Datos – Ejercicios
 
 Este repositorio contiene los ejercicios, prácticas y proyectos realizados a lo largo del Bootcamp de Análisis de Datos.
 El objetivo es aplicar de forma práctica los conceptos aprendidos en cada módulo, utilizando Python, SQL, Web Scraping y herramientas de visualización de datos.
 
-# 🐍 Módulo 1: Descubre el Poder de Python
+## 🐍 Módulo 1: Descubre el Poder de Python
 
 En este módulo se trabajan los fundamentos de Python, esenciales para el análisis de datos.
 
@@ -17,7 +17,7 @@ Contenidos
 
 - Aplicación de lógica, estructuras de datos y programación básica
 
-# 🌐 Módulo 2: Extraer Información de la Web y Bases de Datos
+## 🌐 Módulo 2: Extraer Información de la Web y Bases de Datos
 
 Este módulo se centra en la obtención y gestión de datos desde distintas fuentes.
 
@@ -53,7 +53,7 @@ Contenidos
 
 - Ejercicios extra y repasos
 
-# 🔄 Módulo 3: Transformando Datos
+## 🔄 Módulo 3: Transformando Datos
 
 En este módulo se aprende a limpiar, transformar y preparar los datos para su análisis.
 
@@ -67,7 +67,7 @@ Contenidos
 
 - Contenidos extra de refuerzo
 
-# 📊 Módulo 4: Visualización de Datos – Power BI y Tableau
+## 📊 Módulo 4: Visualización de Datos – Power BI y Tableau
 
 Este módulo está enfocado en la visualización y comunicación de datos.
 
@@ -83,6 +83,6 @@ Contenidos
 
     - Tableau
 
-# 📌 Nota
+## 📌 Nota
 
 Este repositorio tiene fines educativos y refleja el progreso y aprendizaje continuo durante el bootcamp.
