@@ -14,7 +14,8 @@ Lecciones teóricas de Python
 Repasos y ejercicios prácticos
 
 Proyecto: Juegos Clásicos en Python
-Aplicación de lógica, estructuras de datos y programación básica.
+
+Aplicación de lógica, estructuras de datos y programación básica
 
 🌐 Módulo 2: Extraer Información de la Web y Bases de Datos
 
@@ -94,5 +95,6 @@ Proyectos
 
 Material extra
 
-📌 Nota:
+📌 Nota
+
 Este repositorio tiene fines educativos y refleja el progreso y aprendizaje continuo durante el bootcamp.
